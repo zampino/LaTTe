@@ -5,4 +5,4 @@
   digest {:mvn/version "1.4.8"}
   com.taoensso/timbre {:mvn/version "4.10.0"}
   latte-kernel {:git/url "https://github.com/zampino/latte-kernel"
-                :sha "91903e2d15f3419118c14b01f0123709391b36a9"}}}
+                :sha "ea94a946387db3e88bfb6c82d0d0f3db94235c96"}}}
